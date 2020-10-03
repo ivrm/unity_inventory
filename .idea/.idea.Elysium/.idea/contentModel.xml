@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Game" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Config" t="Include">
+              <e p="GameConfig.cs" t="Include" />
+            </e>
+            <e p="Event" t="Include">
+              <e p="ItemEvent.cs" t="Include" />
+            </e>
+            <e p="Inventory" t="Include">
+              <e p="Backpack.cs" t="Include" />
+              <e p="Inventory.cs" t="Include" />
+              <e p="InventorySlot.cs" t="Include" />
+            </e>
+            <e p="Network" t="Include">
+              <e p="HttpClient.cs" t="Include" />
+              <e p="InventoryLogger.cs" t="Include" />
+            </e>
+            <e p="Props" t="Include">
+              <e p="Collectible.cs" t="Include" />
+              <e p="Draggable.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Elysium.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Elysium.1503769760.00" t="ExcludeRecursive" />
+  </component>
+</project>
